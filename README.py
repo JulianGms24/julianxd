@@ -18,6 +18,9 @@ class Producto:
         
         
     #felipoe es gay indio setentra 
+    #hola xd 
+    # SE TE BORRO LA SONRISA , ES  QUE ME VINO UN RECUERDO 
+    #HOLA SOY YO XD 
 class Cerveza(Bebida, Producto):
     
     __contador = 0
