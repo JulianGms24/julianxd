@@ -17,7 +17,7 @@ class Producto:
         return f"las ganacia es : {self.__precio - self.__costo}"
         
         
-    
+    #felipoe es gay indio setentra 
 class Cerveza(Bebida, Producto):
     
     __contador = 0
